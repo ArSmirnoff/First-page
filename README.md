@@ -15,7 +15,8 @@
 Занятость: полная занятость
 График работы: полный день
 
+![orig](https://user-images.githubusercontent.com/125082547/219884498-6a06f659-c105-4746-85a3-2b6988308d2d.jpeg)
 
-<image src="/https://www.google.com/search?q=%D0%BB%D0%B0%D0%BC%D0%B1%D0%BE%D1%80%D0%B3%D0%B8%D0%BD%D0%B8&sxsrf=AJOqlzU6bxn1T988JAf7oa7_3brgX4Vzww:1676744642766&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjzn77G2J_9AhWMlYsKHemVBAcQ_AUoAXoECAEQAw&biw=1517&bih=631&dpr=0.9#imgrc=YvLWErJCddhyeM" alt="Лаба">
+
 
 
